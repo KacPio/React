@@ -1,0 +1,12 @@
+a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    margin: 10px;
+
+  }
+.navbar{
+    background-color: rgb(12, 119, 8);
+    height: 50px;
+  }
